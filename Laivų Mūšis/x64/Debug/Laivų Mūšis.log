@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Laivų Mūšis04-27.vcxproj, Laivų Mūšis04-30.vcxproj, Laivų Mūšis05-03.vcxproj, Laivų Mūšis05-09.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\classbendras.h(41): warning C4101: 'L': unreferenced local variable
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\classbendras.h(41): warning C4101: 'x': unreferenced local variable
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(43): warning C4101: 'L': unreferenced local variable
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(43): warning C4101: 'x': unreferenced local variable
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(673): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(783): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(782): warning C4101: 'y': unreferenced local variable
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(782): warning C4101: 'x': unreferenced local variable
+C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\Laivų Mūšis\Source.cpp(781): warning C4101: 'koordy': unreferenced local variable
+  Laivų Mūšis.vcxproj -> C:\Users\Tomas\source\repos\Laivų mūšis1.6 Moderate AI\x64\Debug\Laivų Mūšis05-14.exe
